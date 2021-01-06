@@ -18,4 +18,4 @@ process in Q2 is executed. Finally, Q3 will get CPU resource.
 
 OUTPUT:
 The remaining time of processes in each queue level, total waiting time and total turnaround time are displayed.
-![](shadobavlu.png)
+![](https://user-images.githubusercontent.com/43548404/103769804-a2cc9900-502d-11eb-8249-2022d45698f7.png)
